@@ -1,3 +1,4 @@
+    "result": "Game with ID: OnUOh3YlWMFcjN9MV6R6 added."
 const gameScoreUrl = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/OnUOh3YlWMFcjN9MV6R6/scores/';
 const userName = document.getElementById('name');
 const score = document.getElementById('score');
