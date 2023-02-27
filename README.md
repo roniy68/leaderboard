@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 to-do-list  ](#-to-do-list--)
+- [📖 Leader Board ](#-leaderboard--)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -37,12 +37,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 to-do-list  <a name="about-project"></a>
+# 📖 Leader Board  <a name="about-project"></a>
 
 > This Project is to create to-do-list for our Resume
 >       <br><b> Module One day 2 Project [solo]</b>
 
-**to-do-list** is a template to build your to-do-list website beautiful.
+**Leaderboard** is a template to build your website from scratch.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,7 +60,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> THIS IS A SIMPLE TODO APP FOR NOW
+> THIS IS A SIMPLE Javascript APP FOR NOW
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
